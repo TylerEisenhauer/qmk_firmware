@@ -1,4 +1,5 @@
-# The default keymap for KBD8X MKII
+# Tyler's Keymap
 
-A typical setup. Nothing special.  
-A nice starting point for customizing.
+- Has the polling rate set to 1ms
+- Keys per scan set to 4. 
+- VIA support enabled
